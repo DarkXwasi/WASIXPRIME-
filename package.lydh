@@ -1,40 +1,4 @@
-{
-		"name": "priyansh-bot-v2",
-		"version": "10.1.1",
-		"description": "A simple Facebook Messenger Bot made by 𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭.",
-		"main": "Priyansh.js",
-		"engines": {
-				"node": "20.x",
-				"npm": "10.0.0"
-		},
-		"scripts": {
-				"start": "node index.js",
-				"login": "node login",
-				"test": "node --trace-warnings --use_strict --async-stack-traces mirai"
-		},
-		"repository": {
-				"type": "git",
-				"url": "https://github.com/Priyansh-11/Priyansh-bot/issues"
-		},
-		"keywords": [
-				"bot",
-				"facebook",
-				"projectpriyansh",
-				"messenger",
-				"javasvript",
-				"priyanshu",
-				"prince",
-				"mental"
-		],
-		"author": "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
-		"license": "GPL-3.0",
-		"bugs": {
-				"url": "https://github.com/Priyansh-11/Priyansh-bot/issues"
-		},
-		"homepage": "https://github.com/Priyansh-11/Priyansh-bot/issues",
-		"dependencies": {
-				"axios": "^1.7.2",
-				"body-parser": "^1.20.0",
+.				"body-parser": "^1.20.0",
 				"canvas": "^2.9.3",
 				"chalk": "^4.1.2",
 				"chalkercli": "^1.6.4",
